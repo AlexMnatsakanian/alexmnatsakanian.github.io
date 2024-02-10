@@ -26,10 +26,11 @@
   margin-top: var(--dl-space-space-unit);
   font-weight: 600;
 }
-.footer-text02 {
+.footer-link {
   color: var(--dl-color-secondary-500);
   margin-top: var(--dl-space-space-halfunit);
   margin-bottom: var(--dl-space-space-halfunit);
+  text-decoration: none;
 }
 .footer-container03 {
   display: flex;
@@ -120,9 +121,17 @@
   margin-right: 6rem;
   flex-direction: column;
 }
-.footer-text03 {
+.footer-text01 {
   color: var(--dl-color-secondary-400);
   font-weight: 600;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.footer-text02 {
+  color: var(--dl-color-secondary-500);
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.footer-text03 {
+  color: var(--dl-color-secondary-500);
   padding-bottom: var(--dl-space-space-halfunit);
 }
 .footer-text04 {
@@ -131,14 +140,6 @@
 }
 .footer-text05 {
   color: var(--dl-color-secondary-500);
-  padding-bottom: var(--dl-space-space-halfunit);
-}
-.footer-text06 {
-  color: var(--dl-color-secondary-500);
-  padding-bottom: var(--dl-space-space-halfunit);
-}
-.footer-text07 {
-  color: var(--dl-color-secondary-500);
 }
 .footer-container10 {
   flex: 0 0 auto;
@@ -146,9 +147,17 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.footer-text08 {
+.footer-text06 {
   color: var(--dl-color-secondary-400);
   font-weight: 600;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.footer-text07 {
+  color: var(--dl-color-secondary-500);
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.footer-text08 {
+  color: var(--dl-color-secondary-500);
   padding-bottom: var(--dl-space-space-halfunit);
 }
 .footer-text09 {
@@ -156,14 +165,6 @@
   padding-bottom: var(--dl-space-space-halfunit);
 }
 .footer-text10 {
-  color: var(--dl-color-secondary-500);
-  padding-bottom: var(--dl-space-space-halfunit);
-}
-.footer-text11 {
-  color: var(--dl-color-secondary-500);
-  padding-bottom: var(--dl-space-space-halfunit);
-}
-.footer-text12 {
   color: var(--dl-color-secondary-500);
 }
 .footer-container11 {
@@ -177,7 +178,7 @@
   flex-direction: column;
   background-color: #e3e8efff;
 }
-.footer-text13 {
+.footer-text11 {
   color: var(--dl-color-secondary-500);
   align-self: center;
 }
@@ -198,7 +199,7 @@
   }
 }
 @media(max-width: 767px) {
-  .footer-text02 {
+  .footer-link {
     text-align: center;
   }
   .footer-container08 {

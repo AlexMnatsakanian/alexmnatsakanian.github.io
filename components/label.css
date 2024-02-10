@@ -15,3 +15,18 @@
   text-transform: uppercase;
   background-color: var(--dl-color-pimary-700);
 }
+.label-root-class-name {
+  margin: var(--dl-space-space-triplequarter);
+}
+.label-root-class-name1 {
+  margin: var(--dl-space-space-triplequarter);
+}
+.label-root-class-name2 {
+  margin: var(--dl-space-space-triplequarter);
+}
+.label-root-class-name3 {
+  margin: var(--dl-space-space-triplequarter);
+}
+.label-root-class-name4 {
+  margin: var(--dl-space-space-triplequarter);
+}
