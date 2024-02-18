@@ -816,11 +816,14 @@
   display: flex;
   box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1),0 4px 6px -2px rgba(0,0,0,0.05);
   align-items: center;
+  border-color: var(--dl-color-gray-900);
+  border-width: 1px;
   border-radius: var(--dl-radius-radius-round);
   flex-direction: column;
   background-size: cover;
   justify-content: center;
-  background-image: url('https://static.wikia.nocookie.net/logopedia/images/a/a8/Task_Scheduler_2006.png/revision/latest?cb=20221231234818');
+  background-image: url('https://www.snow-mirror.com/wp-content/uploads/2014/11/task-scheduler-icon1.jpeg');
+  background-position: center;
 }
 .home-text04 {
   color: var(--dl-color-secondary-100);
