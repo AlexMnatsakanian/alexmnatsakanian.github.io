@@ -24,3 +24,6 @@
 .secondary-button-root-class-name {
   margin-top: var(--dl-space-space-unitandhalf);
 }
+.secondary-button-root-class-name1 {
+  margin-left: var(--dl-space-space-halfunit);
+}

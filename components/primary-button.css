@@ -20,3 +20,6 @@
 .primary-button-button:active {
   background-color: var(--dl-color-pimary-300);
 }
+.primary-button-root-class-name {
+  margin-right: var(--dl-space-space-halfunit);
+}
