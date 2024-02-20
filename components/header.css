@@ -338,12 +338,16 @@
   }
 }
 @media(max-width: 479px) {
+  .header-header {
+    z-index: 2;
+  }
   .header-container2 {
     display: none;
   }
   .header-mobile-menu {
     height: auto;
     display: none;
+    z-index: 2;
     align-items: flex-start;
   }
   .header-text1 {
